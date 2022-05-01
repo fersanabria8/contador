@@ -39,12 +39,11 @@
 
 
 .container{
-  background-color: #61dafb;
   display: flex;
   flex-direction: column;
   justify-content: center;
   margin: 100px auto;
-  width: 50%;
+  width: 90%;
   border-radius: 5px;
 }
 
